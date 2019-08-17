@@ -166,6 +166,7 @@
     <Compile Include="StaffEventDashboard.Designer.cs">
       <DependentUpon>StaffEventDashboard.cs</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="StaffEventsDisplay.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -185,6 +186,8 @@
       <DependentUpon>StaffSocietyDisplay.cs</DependentUpon>
     </Compile>
 >>>>>>> 54b5eb4042cd243cdddc14af8974c6304b9c98b8
+=======
+>>>>>>> parent of d3fff99... Anchor changed.
     <EmbeddedResource Include="Dashboard.resx">
       <DependentUpon>Dashboard.cs</DependentUpon>
     </EmbeddedResource>
@@ -234,6 +237,7 @@
     <EmbeddedResource Include="StaffEventDashboard.resx">
       <DependentUpon>StaffEventDashboard.cs</DependentUpon>
     </EmbeddedResource>
+<<<<<<< HEAD
     <EmbeddedResource Include="StaffEventsDisplay.resx">
       <DependentUpon>StaffEventsDisplay.cs</DependentUpon>
     </EmbeddedResource>
@@ -244,6 +248,8 @@
       <DependentUpon>StaffSocietyDisplay.cs</DependentUpon>
 >>>>>>> 54b5eb4042cd243cdddc14af8974c6304b9c98b8
     </EmbeddedResource>
+=======
+>>>>>>> parent of d3fff99... Anchor changed.
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -428,10 +434,13 @@
   <ItemGroup>
     <None Include="Resources\bb8baec8be1c5057ac42f20f09b415bb.jpg" />
   </ItemGroup>
+<<<<<<< HEAD
   <ItemGroup>
     <None Include="Resources\back.jpg" />
 >>>>>>> 54b5eb4042cd243cdddc14af8974c6304b9c98b8
   </ItemGroup>
+=======
+>>>>>>> parent of d3fff99... Anchor changed.
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

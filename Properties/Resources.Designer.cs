@@ -190,6 +190,7 @@ namespace Login.Properties {
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
 <<<<<<< HEAD
+<<<<<<< HEAD
         internal static System.Drawing.Bitmap business_people_talking_office_building_40876_657 {
             get {
                 object obj = ResourceManager.GetObject("business-people-talking-office-building_40876-657", resourceCulture);
@@ -211,6 +212,8 @@ namespace Login.Properties {
                 object obj = ResourceManager.GetObject("ded50242578fc7ed06cbb1eb4ec746c3_28-collection-of-science-clipart-for-teachers-hi" +
                         "gh-quality-_736-824", resourceCulture);
 =======
+=======
+>>>>>>> parent of d3fff99... Anchor changed.
         internal static System.Drawing.Bitmap background {
             get {
                 object obj = ResourceManager.GetObject("background", resourceCulture);

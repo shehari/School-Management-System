@@ -139,31 +139,43 @@
             // 
             // subjectBtn
             // 
-            this.subjectBtn.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.subjectBtn.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.subjectBtn.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.subjectBtn.BackgroundImage = global::Login.Properties.Resources.library;
             this.subjectBtn.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+<<<<<<< HEAD
             this.subjectBtn.Location = new System.Drawing.Point(133, 138);
             this.subjectBtn.Name = "subjectBtn";
             this.subjectBtn.Size = new System.Drawing.Size(200, 145);
+=======
+            this.subjectBtn.Location = new System.Drawing.Point(159, 119);
+            this.subjectBtn.Name = "subjectBtn";
+            this.subjectBtn.Size = new System.Drawing.Size(170, 130);
+>>>>>>> parent of d3fff99... Anchor changed.
             this.subjectBtn.TabIndex = 46;
             this.subjectBtn.UseVisualStyleBackColor = true;
             // 
             // staffBtn
             // 
-            this.staffBtn.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.staffBtn.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
             this.staffBtn.BackColor = System.Drawing.Color.DarkRed;
             this.staffBtn.BackgroundImage = global::Login.Properties.Resources.staff;
             this.staffBtn.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+<<<<<<< HEAD
             this.staffBtn.Location = new System.Drawing.Point(448, 413);
             this.staffBtn.Name = "staffBtn";
             this.staffBtn.Size = new System.Drawing.Size(200, 145);
+=======
+            this.staffBtn.Location = new System.Drawing.Point(396, 367);
+            this.staffBtn.Name = "staffBtn";
+            this.staffBtn.Size = new System.Drawing.Size(170, 130);
+>>>>>>> parent of d3fff99... Anchor changed.
             this.staffBtn.TabIndex = 52;
             this.staffBtn.UseVisualStyleBackColor = false;
             // 
             // oldBoysBtn
             // 
-            this.oldBoysBtn.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.oldBoysBtn.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.oldBoysBtn.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.oldBoysBtn.BackgroundImage = global::Login.Properties.Resources.old_bys;
             this.oldBoysBtn.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
@@ -171,22 +183,32 @@
             this.oldBoysBtn.ForeColor = System.Drawing.Color.Maroon;
             this.oldBoysBtn.Location = new System.Drawing.Point(760, 336);
             this.oldBoysBtn.Name = "oldBoysBtn";
+<<<<<<< HEAD
             this.oldBoysBtn.Size = new System.Drawing.Size(200, 145);
+=======
+            this.oldBoysBtn.Size = new System.Drawing.Size(170, 130);
+>>>>>>> parent of d3fff99... Anchor changed.
             this.oldBoysBtn.TabIndex = 51;
             this.oldBoysBtn.Text = "                                  ";
             this.oldBoysBtn.UseVisualStyleBackColor = false;
             // 
             // eventBtn
             // 
-            this.eventBtn.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.eventBtn.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.eventBtn.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.eventBtn.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("eventBtn.BackgroundImage")));
             this.eventBtn.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.eventBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.eventBtn.ForeColor = System.Drawing.Color.Maroon;
+<<<<<<< HEAD
             this.eventBtn.Location = new System.Drawing.Point(133, 336);
             this.eventBtn.Name = "eventBtn";
             this.eventBtn.Size = new System.Drawing.Size(200, 145);
+=======
+            this.eventBtn.Location = new System.Drawing.Point(159, 317);
+            this.eventBtn.Name = "eventBtn";
+            this.eventBtn.Size = new System.Drawing.Size(170, 130);
+>>>>>>> parent of d3fff99... Anchor changed.
             this.eventBtn.TabIndex = 49;
             this.eventBtn.Text = "          ";
             this.eventBtn.UseVisualStyleBackColor = false;
@@ -194,27 +216,37 @@
             // 
             // resultBtn
             // 
-            this.resultBtn.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.resultBtn.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.resultBtn.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.resultBtn.BackgroundImage = global::Login.Properties.Resources.result;
             this.resultBtn.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.resultBtn.Location = new System.Drawing.Point(760, 138);
             this.resultBtn.Name = "resultBtn";
+<<<<<<< HEAD
             this.resultBtn.Size = new System.Drawing.Size(200, 145);
+=======
+            this.resultBtn.Size = new System.Drawing.Size(170, 130);
+>>>>>>> parent of d3fff99... Anchor changed.
             this.resultBtn.TabIndex = 48;
             this.resultBtn.UseVisualStyleBackColor = false;
             // 
             // studentBtn
             // 
-            this.studentBtn.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.studentBtn.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.studentBtn.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.studentBtn.BackgroundImage = global::Login.Properties.Resources.student;
             this.studentBtn.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.studentBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.studentBtn.ForeColor = System.Drawing.SystemColors.HotTrack;
+<<<<<<< HEAD
             this.studentBtn.Location = new System.Drawing.Point(448, 68);
             this.studentBtn.Name = "studentBtn";
             this.studentBtn.Size = new System.Drawing.Size(200, 145);
+=======
+            this.studentBtn.Location = new System.Drawing.Point(396, 60);
+            this.studentBtn.Name = "studentBtn";
+            this.studentBtn.Size = new System.Drawing.Size(170, 130);
+>>>>>>> parent of d3fff99... Anchor changed.
             this.studentBtn.TabIndex = 47;
             this.studentBtn.Text = "      ";
             this.studentBtn.UseVisualStyleBackColor = false;

@@ -180,17 +180,14 @@
     <value>..\Resources\event accepted.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
 >>>>>>> 54b5eb4042cd243cdddc14af8974c6304b9c98b8
   </data>
-  <data name="noti1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\noti1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="student" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\student.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="library" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\library.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="noti" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\noti.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="noti1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\noti1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 <<<<<<< HEAD
   <data name="subject" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -248,8 +245,8 @@
     <value>..\Resources\b3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
 >>>>>>> 54b5eb4042cd243cdddc14af8974c6304b9c98b8
   </data>
-  <data name="bb8baec8be1c5057ac42f20f09b415bb" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bb8baec8be1c5057ac42f20f09b415bb.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="noti" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\noti.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="icons8-database-administrator-50" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icons8-database-administrator-50.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -260,6 +257,7 @@
   <data name="subject" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\subject.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+<<<<<<< HEAD
   <data name="elementary_teaching_theme_teacher_pupil_icons_cartoon_design_6831459" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\elementary_teaching_theme_teacher_pupil_icons_cartoon_design_6831459.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -268,6 +266,10 @@
   </data>
   <data name="event icn" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\event icn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+=======
+  <data name="society" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\society.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+>>>>>>> parent of d3fff99... Anchor changed.
   </data>
 <<<<<<< HEAD
   <data name="email-marketing-1051152514-5bc8b2d446e0fb0026c39b2a" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -283,6 +285,7 @@
     <value>..\Resources\asoka new.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
 >>>>>>> 54b5eb4042cd243cdddc14af8974c6304b9c98b8
   </data>
+<<<<<<< HEAD
   <data name="event accepted" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\event accepted.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -291,6 +294,10 @@
   </data>
   <data name="asoka new1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\asoka new1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+=======
+  <data name="event icn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\event icn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+>>>>>>> parent of d3fff99... Anchor changed.
   </data>
   <data name="background1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\background1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -321,7 +328,7 @@
   <data name="email-blasts-resize-border" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\email-blasts-resize-border.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="back" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\back.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="bb8baec8be1c5057ac42f20f09b415bb" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bb8baec8be1c5057ac42f20f09b415bb.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

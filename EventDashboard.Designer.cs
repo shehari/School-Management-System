@@ -63,7 +63,7 @@
             // 
             // SMbtn
             // 
-            this.SMbtn.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.SMbtn.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.SMbtn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(163)))), ((int)(((byte)(71)))), ((int)(((byte)(57)))));
             this.SMbtn.FlatAppearance.BorderColor = System.Drawing.Color.Bisque;
             this.SMbtn.FlatAppearance.BorderSize = 2;
@@ -100,7 +100,7 @@
             // 
             // EMbtn
             // 
-            this.EMbtn.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.EMbtn.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.EMbtn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(163)))), ((int)(((byte)(71)))), ((int)(((byte)(57)))));
             this.EMbtn.FlatAppearance.BorderColor = System.Drawing.Color.Bisque;
             this.EMbtn.FlatAppearance.BorderSize = 2;
@@ -118,7 +118,7 @@
             // 
             // button3
             // 
-            this.button3.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.button3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.button3.BackColor = System.Drawing.Color.SaddleBrown;
             this.button3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.button3.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Black;
@@ -132,7 +132,7 @@
             // 
             // button2
             // 
-            this.button2.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.button2.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.button2.BackColor = System.Drawing.Color.SaddleBrown;
             this.button2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.button2.Location = new System.Drawing.Point(458, 193);
@@ -144,7 +144,6 @@
             // 
             // button1
             // 
-            this.button1.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.button1.BackColor = System.Drawing.Color.SaddleBrown;
             this.button1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.button1.Location = new System.Drawing.Point(169, 193);
@@ -169,7 +168,7 @@
             // 
             // pictureBox5
             // 
-            this.pictureBox5.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.pictureBox5.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.pictureBox5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox5.Image = global::Login.Properties.Resources.society;
             this.pictureBox5.Location = new System.Drawing.Point(752, 210);
@@ -182,7 +181,7 @@
             // 
             // pictureBox4
             // 
-            this.pictureBox4.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.pictureBox4.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.pictureBox4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox4.Image = global::Login.Properties.Resources.noti;
             this.pictureBox4.Location = new System.Drawing.Point(476, 210);
@@ -195,7 +194,6 @@
             // 
             // pictureBox3
             // 
-            this.pictureBox3.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.pictureBox3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox3.Image = global::Login.Properties.Resources.event_icn;
             this.pictureBox3.Location = new System.Drawing.Point(186, 210);

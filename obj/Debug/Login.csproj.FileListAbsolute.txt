@@ -34,7 +34,10 @@ C:\Users\Hansika Perera\Desktop\Event Management\School Management System\Login\
 C:\Users\Hansika Perera\Desktop\Event Management\School Management System\Login\Login\obj\Debug\Login.Societies.resources
 C:\Users\Hansika Perera\Desktop\Event Management\School Management System\Login\Login\obj\Debug\Login.StaffEventDashboard.resources
 C:\Users\Hansika Perera\Desktop\Event Management\School Management System\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+<<<<<<< HEAD
 C:\Users\Hansika Perera\Desktop\Event Management\School Management System\Login\Login\obj\Debug\Login.StaffEventsDisplay.resources
 C:\Users\Hansika Perera\Desktop\Event Management\School Management System\Login\Login\obj\Debug\Login.StaffNotificationDisplay.resources
 C:\Users\Hansika Perera\Desktop\Event Management\School Management System\Login\Login\obj\Debug\Login.StaffSocietyDisplay.resources
 >>>>>>> 54b5eb4042cd243cdddc14af8974c6304b9c98b8
+=======
+>>>>>>> parent of d3fff99... Anchor changed.
